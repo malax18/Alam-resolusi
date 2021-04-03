@@ -1,3 +1,4 @@
 ALAM RESOLUSI
 - Saya ingin belajar linux
 - membuat web server
+- membuat aplikasi
